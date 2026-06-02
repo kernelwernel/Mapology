@@ -11,8 +11,13 @@ This is just a hobby project to stash all my maps. Some are for serious work whi
 
 ## Gallery
 
-| [Map of U.S. military bases in Okinawa](Okinawa-US-Military/) | [Map of Nepalese mountain ranges](Nepal-mountain-ranges/) |
+| [Map of U.S. military bases in Okinawa, Japan](Okinawa-US-Military/) | [Map of Nepalese mountain ranges](Nepal-mountain-ranges/) |
 | ------------- | ------------- |
 | <img src="Okinawa-US-Military/map/okinawa_us_base_map.jpg" height="300"> | <img src="Nepal-mountain-ranges/map/nepal_mountains.jpg" height="300"> |
+
+
+| [Map of deforestation in Rondonia, Brazil](Rondonia-deforestation/) |
+| ------------- |
+| <img src="Rondonia-deforestation/map/rondonia_deforestation.gif" height="300"> |
 
 Other maps are in the works or planned to be published :)
