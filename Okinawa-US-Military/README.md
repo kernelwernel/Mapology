@@ -18,7 +18,7 @@ Every map that has ever been made on this topic has many issues, such as missing
 
 This motivated me to create one single encompassing map that fixes all the aforementioned issues while providing quantitative and historical data on each U.S. base that has ever existed. So to accompany this, I did my best to compile the correct details and discarded the incorrect ones from each source I could find to make it as accurate as possible from my own research. 
 
-I visited Okinawa in 2025 (travel photos shown on the banner of this README), and I spent approximately 150+ hours in total manually mapping the areas using ArcGIS while binge listening to Nujabes. 10/10 experience btw, would highly recommend. Although I'm most likely on some sort of watchlist by now, it was definitely worth it :)
+I visited Okinawa in 2025 (travel photos shown on the banner of this README), and I spent approximately 150+ hours in total manually mapping the areas using ArcGIS (10/10 experience btw). Although I'm most likely on some sort of watchlist by now, it was definitely worth it :)
 
 <br>
 
